@@ -1,5 +1,7 @@
 # My Dev Journey (2026)
 
+I made a change here!
+
 > My personal space where I track what I am building, my achievements, and my hands-on practice through Hackathons and School Organization
 
 ---
