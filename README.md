@@ -14,8 +14,8 @@ I put this repository together to document my progress as a developer in 2026. I
 
 | File Name | Format | What It Is |
 | :--- | :--- | :--- |
-| **`hackathon-win.png`** | Image | A photo from when our team won a hackathon competition. |
-| **`resume.pdf`** | Document | My updated resume detailing my skills, education, and experience. |
+| **`eGovPH-Hackathon-Win.png`** | Image | A photo from when our team won a hackathon competition. |
+| **`Visaya_Joey_Jr_Resume.pdf`** | Document | My updated resume detailing my skills, education, and experience. |
 | **`projects.md`** | Markdown | Direct links to my other GitHub repositories with quick notes on what each one does. |
 | **`confluent-credential.json`** | JSON (W3C) | A digitally verified W3C credential file confirming my Confluent certification. |
 
